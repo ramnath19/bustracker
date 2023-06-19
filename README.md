@@ -4,7 +4,7 @@ This is a map project for my MERN MIT xPro Full Stack Developer course. The goal
 
 To run this map on your own machine, clone this repo using your terminal:
 
-Navigate to: (https://github.com/ramnath19/bustracker/new/main)
+Navigate to: (https://github.com/ramnath19/bustracker/main)
 Click on the green "Code" button, then from the HTTPS menu, copy the url.
 Go to your Terminal on your local machine. Navigate to whichever directory you would like the bus tracker to be saved in.
 Type "git clone" followed by pasting in the URL you got in step 2.
